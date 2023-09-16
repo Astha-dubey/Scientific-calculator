@@ -10,8 +10,8 @@ print("7. Tangent")
 print("8. Square root")
 print("9. Exponential")
 print("10. LogBase10")
-print("11. Power")
-print("12. Square Root")
+print("11. POWER")
+print("12. Square ROOT")
 
 # Please Select options between 1-12
 choice = input("Please Enter your choice (1/2/3/4/5/6/7/8/9/10/11/12): ")
